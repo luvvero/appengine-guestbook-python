@@ -30,7 +30,7 @@ High Replication Datastore (HRD) and retrieved using a strongly consistent
 [7]: http://twitter.github.com/bootstrap/
 
 
-## E2E Test for this sample app
+## E2E Test for this sample app test
 
 A Makefile is provided to deploy and run the e2e test.
 
