@@ -39,7 +39,7 @@ To run:
      export GAE_PROJECT=your-project-id
      make
 
-To manually run, install the requirements
+To manually run, install the requirements 
 
     pip install -r e2e/requirements-dev.txt
 
